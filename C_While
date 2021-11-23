@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main(void){
+  
+  int i = 1;
+  
+  while (i<=10) {
+    printf("i is %d now",i);
+  }
+  printf("End of while i is %d now",i);
+
+return 0;
+
+}
