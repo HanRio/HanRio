@@ -6,6 +6,7 @@ int main(void){
   
   while (i<=10) {
     printf("i is %d now",i);
+    i++;
   }
   printf("End of while i is %d now",i);
 
